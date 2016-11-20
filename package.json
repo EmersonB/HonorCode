@@ -1,0 +1,30 @@
+{
+  "name": "firebase-react-starter",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.6.1"
+  },
+  "dependencies": {
+    "attr-accept": "latest",
+    "react": "^15.3.2",
+    "react-bootstrap": "latest",
+    "react-dom": "^15.3.2",
+    "react-dropzone": "latest",
+    "react-parallax": "^1.0.4",
+    "react-redux": "latest",
+    "react-router": "latest",
+    "reactfire": "latest",
+    "redux": "latest",
+    "redux-devtools": "latest",
+    "redux-form": "latest",
+    "react-search-bar": "latest",
+    "firebase-tools": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build --history-api-fallback",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
